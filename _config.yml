@@ -11,7 +11,7 @@ title                    : "fjo.gl"
 title_separator          : "-"
 name                     : &name "Fabian Jogl"
 description              : &description "Fabian Jogl's personal website"
-url                      : https://fjo.gl # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : ocatias.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ocatias/ocatias.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -83,7 +83,7 @@ author:
   name             : "Fabian Jogl"
   avatar           : "fj_small.png"
   bio              : "PhD student in machine learning, interested in graph neural networks."
-  location         : 
+  location         :
   employer         : "TU Wien"
   pubmed           :
   googlescholar    : "https://scholar.google.com/citations?hl=de&user=UM-2zakAAAAJ"
