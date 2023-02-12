@@ -1,1 +1,1 @@
-Sitemap: ocatias.github.io/sitemap.xml
+Sitemap: https://ocatias.github.io/sitemap.xml
