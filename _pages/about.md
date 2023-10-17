@@ -8,11 +8,16 @@ redirect_from:
   - /about.html
 ---
 
-I am a first-year PhD student at TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/).
+I am a second-year PhD student at TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/).
 My research interests lie in the intersection of _machine learning_ and _classical algorithmics_.
 Currently, I am focusing on the _expressiveness of graph neural networks_.
 My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
+
+## News
+- October 2023: Our paper [Expressivity-Preserving GNN Simulation](https://neurips.cc/virtual/2023/poster/69926) has been accepted at **NeurIPS 2023**.
+- July 2023: Best Poster Award at G-Research’s ICML poster party where Maximilian Thiessen presented our poster on Expectation-Complete Graph Representations with Homomorphisms
+- April 2023: Our paper [Expectation-Complete Graph Representations with Homomorphisms](https://openreview.net/forum?id=ppgRPC14uI) has been accepted at **ICML 2023**.
 
 ## Education
 - PhD in Computer Science at [CAIML](https://www.tuwien.at/caiml/) and TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/) (2022-2026)
@@ -20,6 +25,7 @@ strong theoretical and mathematical basis.
 - BSc in Physics as University of Vienna (2016-2019)
 
 ## Awards and Scholarships
+- **Best Poster Award** at G-Research’s ICML poster party for _Expectation-Complete Graph Representations with Homomorphisms_
 - **Best Poster Award** at MLG@ECML determined via community vote (2022)
 - Merit Scholarship in Logic and Computation (2020)
 - Merit Scholarship  in Physics, **first place of all physics students** (2019)
