@@ -15,9 +15,10 @@ My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
-- October 2023: Our paper [Expressivity-Preserving GNN Simulation](https://neurips.cc/virtual/2023/poster/69926) has been accepted at **NeurIPS 2023**.
-- July 2023: Best Poster Award at G-Research’s ICML poster party where Maximilian Thiessen presented our poster on Expectation-Complete Graph Representations with Homomorphisms
-- April 2023: Our paper [Expectation-Complete Graph Representations with Homomorphisms](https://openreview.net/forum?id=ppgRPC14uI) has been accepted at **ICML 2023**.
+- Our paper _Maximally Expressive GNNs for Outerplanar Graphs_ has been accepted as an **oral** at the **GLFrontiers@NeurIPS** workshop.
+- Our paper [Expressivity-Preserving GNN Simulation](https://neurips.cc/virtual/2023/poster/69926) has been accepted at **NeurIPS 2023**.
+- Best Poster Award at G-Research’s ICML poster party where Maximilian Thiessen presented our poster on Expectation-Complete Graph Representations with Homomorphisms
+- Our paper [Expectation-Complete Graph Representations with Homomorphisms](https://openreview.net/forum?id=ppgRPC14uI) has been accepted at **ICML 2023**.
 
 ## Education
 - PhD in Computer Science at [CAIML](https://www.tuwien.at/caiml/) and TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/) (2022-2026)
