@@ -20,11 +20,23 @@ Daniel Helm, **Fabian Jogl**, and Martin Kampel. 2022.
 [HISTORIAN: A large-scale historical film dataset with cinematographic annotation](https://ieeexplore.ieee.org/document/9897300/).  
 In _ICIP_.
 
-Jiehua Chen $^*$, Adrian Chmurovic $^*$, **Fabian Jogl** $^*$, and Manuel Sorge $^*$. 2021.  
+Jiehua Chen, Adrian Chmurovic, **Fabian Jogl**, and Manuel Sorge. 2021.  
 [On (coalitional) exchange-stable matching](https://link.springer.com/chapter/10.1007/978-3-030-85947-3_14).  
 In _SAGT_.
 
-## Peer-Reviewed Workshop Publications
+## Peer-Reviewed Workshop Publications and Extended Abstracts
+
+Franka Bause, **Fabian Jogl**, Patrick Indri, Tamara Drucks, David Penz, Nils Kriege, Thomas Gärtner, Pascal Welke, Maximilian Thiessen. 2023.  
+[Maximally Expressive GNNs for Outerplanar Graphs]()  
+In _GLFrontiers@NeurIPS_ accepted as **oral**.
+
+Andrei Dragos Brasoveanu, **Fabian Jogl**, Pascal Welke, Maximilian Thiessen. 2023.  
+[Extending Graph Neural Networks with Global Features]()   
+In _Learning on Graphs conference_ (extended abstract).
+
+Franka Bause, **Fabian Jogl**, Pascal Welke, Maximilian Thiessen. 2023.  
+[Maximally Expressive GNNs for Outerplanar Graphs]()  
+In _Learning on Graphs conference_ (extended abstract).
 
 **Fabian Jogl**, Maximilian Thiessen, and Thomas Gärtner. 2022.  
 [Weisfeiler and Leman return with graph transformations](https://openreview.net/forum?id=Oq5mzL-3SUV).  
@@ -34,6 +46,6 @@ In _Workshop on Mining and Learning with Graphs at ECMLPKDD_.
 [Reducing learning on cell complexes to graphs](https://openreview.net/forum?id=HKUxAE-J6lq).  
 In _Workshop on Geometrical and Topological Representation Learning at ICLR_.
 
-Jiehua Chen $^*$, Adrian Chmurovic $^*$, **Fabian Jogl** $^*$, and Manuel Sorge $^*$. 2021.  
+Jiehua Chen, Adrian Chmurovic, **Fabian Jogl**, and Manuel Sorge. 2021.  
 On (coalitional) exchange-stable matching.  
 In _COMSOC_.

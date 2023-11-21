@@ -15,6 +15,8 @@ My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
+- Happy to be recognized as a [top reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers) at NeurIPS 2023
+- Two extended abstracts accepted at the LoG 2023 conference: _Extending Graph Neural Networks with Global Features_ and _Maximally Expressive GNNs for Outerplanar Graphs_. 
 - Our paper _Maximally Expressive GNNs for Outerplanar Graphs_ has been accepted as an **oral** at the **GLFrontiers@NeurIPS** workshop.
 - Our paper [Expressivity-Preserving GNN Simulation](https://neurips.cc/virtual/2023/poster/69926) has been accepted at **NeurIPS 2023**.
 - Best Poster Award at G-Research’s ICML poster party where Maximilian Thiessen presented our poster on Expectation-Complete Graph Representations with Homomorphisms
