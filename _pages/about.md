@@ -8,13 +8,18 @@ redirect_from:
   - /about.html
 ---
 
-I am a second-year PhD student at TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/).
+I am a third-year PhD student at TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/).
 My research interests lie in the intersection of _machine learning_ and _classical algorithmics_.
 Currently, I am focusing on the _expressiveness of graph neural networks_.
 My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
+- (October) Two workshop papers at NeurIPS: _"An Analysis on Cross-Dataset Transfer of Pretrained GNNs"_ (NeurReps) and _"Is Expressivity Essential for the Predictive Performance of Graph Neural Networks?"_ (Scientific Methods for Understanding Deep Learning)
+- (May) Our paper _The Expressive Power of Path-Based Graph Neural Networks_ has been accepted at ICML 2024
+- (March) Gave a talk at BeST 2024 ([video in german](https://youtu.be/_SaifqDYz_M))
+
+### 2023:
 - Happy to be recognized as a [top reviewer](https://neurips.cc/Conferences/2023/ProgramCommittee#top-reivewers) at NeurIPS 2023
 - Two extended abstracts accepted at the LoG 2023 conference: _Extending Graph Neural Networks with Global Features_ and _Maximally Expressive GNNs for Outerplanar Graphs_. 
 - Our paper _Maximally Expressive GNNs for Outerplanar Graphs_ has been accepted as an **oral** at the **GLFrontiers@NeurIPS** workshop.
@@ -28,6 +33,7 @@ strong theoretical and mathematical basis.
 - BSc in Physics as University of Vienna (2016-2019)
 
 ## Awards and Scholarships
+- Top reviewer at NeurIPS 2023
 - **Best Poster Award** at G-Research’s ICML poster party for _Expectation-Complete Graph Representations with Homomorphisms_
 - **Best Poster Award** at MLG@ECML determined via community vote (2022)
 - Merit Scholarship in Logic and Computation (2020)
