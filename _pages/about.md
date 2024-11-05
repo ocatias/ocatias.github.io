@@ -15,6 +15,7 @@ My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
+- (November) [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee) at NeurIPS 2024
 - (October) Two workshop papers at NeurIPS: _"An Analysis on Cross-Dataset Transfer of Pretrained GNNs"_ (NeurReps) and _"Is Expressivity Essential for the Predictive Performance of Graph Neural Networks?"_ (Scientific Methods for Understanding Deep Learning)
 - (May) Our paper _The Expressive Power of Path-Based Graph Neural Networks_ has been accepted at ICML 2024
 - (March) Gave a talk at BeST 2024 ([video in german](https://youtu.be/_SaifqDYz_M))
@@ -33,7 +34,7 @@ strong theoretical and mathematical basis.
 - BSc in Physics as University of Vienna (2016-2019)
 
 ## Awards and Scholarships
-- Top reviewer at NeurIPS 2023
+- Top reviewer at NeurIPS 2023 and 2024
 - **Best Poster Award** at G-Research’s ICML poster party for _Expectation-Complete Graph Representations with Homomorphisms_
 - **Best Poster Award** at MLG@ECML determined via community vote (2022)
 - Merit Scholarship in Logic and Computation (2020)
