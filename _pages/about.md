@@ -31,7 +31,7 @@ strong theoretical and mathematical basis.
 ## Education
 - PhD in Computer Science at [CAIML](https://www.tuwien.at/caiml/) and TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/) (2022-2026)
 - MSc in Logic and Computation at TU Wien (2019-2022)
-- BSc in Physics as University of Vienna (2016-2019)
+- BSc in Physics at University of Vienna (2016-2019)
 
 ## Awards and Scholarships
 - Top reviewer at NeurIPS 2023 and 2024
