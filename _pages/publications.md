@@ -5,7 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
-# Conference Publications
+## Conference and Journal Publications
+Franka Bause, **Fabian Jogl**, Patrick Indri, Tamara Drucks, David Penz, Nils Kriege, Thomas Gärtner, Pascal Welke, Maximilian Thiessen. 2024.  
+[Maximally Expressive GNNs for Outerplanar Graphs]()  
+In _TMLR_.  
+
 Caterina Graziani, Tamara Drucks, **Fabian Jogl**, Monica Bianchini, Thomas Gärtner. 2024.   
 [The Expressive Power of Path-Based Graph Neural Networks](https://openreview.net/pdf?id=io1XSRtcO8).   
 In _ICML_.
@@ -28,7 +32,7 @@ In _SAGT_.
 
 ## Peer-Reviewed Workshop Publications and Extended Abstracts
 
-Fabrizio Frasca, **Fabian Jogl**, Moshe Eliasof, Matan Ostrovsky, Carola-Bibiane Schönlieb, Thomas Gärtner, Haggai Maron . 2024.   
+Fabrizio Frasca, **Fabian Jogl**, Moshe Eliasof, Matan Ostrovsky, Carola-Bibiane Schönlieb, Thomas Gärtner, Haggai Maron. 2024.   
 Towards Foundation Models on Graphs: An Analysis on
 Cross-Dataset Transfer of Pretrained GNNs.   
 In _NeurReps @ NeurIPS_.   
