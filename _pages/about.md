@@ -15,6 +15,10 @@ My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
+
+- (April) I have passed my proficiency evaluation. Many thanks to the committee: Professors Michael Bronstein, Thomas Gärtner and Emanuel Sallinger.
+
+### 2024
 - (November) Our paper _Maximally Expressive Graph Neural Networks for Outerplanar Graphs_ has been accepted at TMLR
 - (November) [Top reviewer](https://neurips.cc/Conferences/2024/ProgramCommittee) at NeurIPS 2024
 - (October) Two workshop papers at NeurIPS: _"An Analysis on Cross-Dataset Transfer of Pretrained GNNs"_ (NeurReps) and _"Is Expressivity Essential for the Predictive Performance of Graph Neural Networks?"_ (Scientific Methods for Understanding Deep Learning)
