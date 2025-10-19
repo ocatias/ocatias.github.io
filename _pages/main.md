@@ -8,14 +8,15 @@ redirect_from:
   - /about.html
 ---
 
-I am a third-year PhD student at TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/).
+I am a final-year PhD student at TU Wien advised by [Thomas Gärtner](https://thomasgaertner.org/).
 My research interests lie in the intersection of _machine learning_ and _classical algorithmics_.
-Currently, I am focusing on the _expressiveness of graph neural networks_.
 My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
 
+- (October) [New arXiv preprint](https://arxiv.org/abs/2510.13615): Expressive edge-based GNNs that are near-linear time with well characterized expressivity (in terms of homomorphism counting and first-order logic).
+- (May) [New arXiv preprint](https://arxiv.org/abs/2505.11298): Higher GNN expressivity can lead to worse generalization unless balanced by dataset size.
 - (April) I have passed my proficiency evaluation. Many thanks to the committee: Professors Michael Bronstein, Thomas Gärtner and Emanuel Sallinger.
 
 ### 2024
