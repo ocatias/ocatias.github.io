@@ -15,6 +15,7 @@ strong theoretical and mathematical basis.
 
 ## News
 
+- (November) I have joined the lab of Professor [Mahito Sugiyama](https://mahito.nii.ac.jp/) in Tokyo 🇯🇵 as an intern.
 - (October) [New arXiv preprint](https://arxiv.org/abs/2510.13615): Expressive edge-based GNNs that are near-linear time with well characterized expressivity (in terms of homomorphism counting and first-order logic).
 - (May) [New arXiv preprint](https://arxiv.org/abs/2505.11298): Higher GNN expressivity can lead to worse generalization unless balanced by dataset size.
 - (April) I have passed my proficiency evaluation. Many thanks to the committee: Professors Michael Bronstein, Thomas Gärtner and Emanuel Sallinger.
