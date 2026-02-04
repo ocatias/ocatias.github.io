@@ -14,6 +14,10 @@ My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
+- (January) Our [paper about GNN expressivity and generalization](https://arxiv.org/abs/2505.11298)  has been accepted to ICLR. Work led by Sohir Maskey. 
+- (January) Our paper [GNNs Don’t Need Backprop](https://pwelke.de/publications/goupil2026gnnsdontneedbackprop.pdf)  has been accepted to the [ESANN](https://www.esann.org/) as an **oral**. Work led by Benoît Goupil.
+
+### 2025
 
 - (November) I have joined the lab of Professor [Mahito Sugiyama](https://mahito.nii.ac.jp/) in Tokyo 🇯🇵 as an intern.
 - (October) [New arXiv preprint](https://arxiv.org/abs/2510.13615): Expressive edge-based GNNs that are near-linear time with well characterized expressivity (in terms of homomorphism counting and first-order logic).
