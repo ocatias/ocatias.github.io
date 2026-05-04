@@ -14,7 +14,8 @@ My goal is to perform research that combines applied machine learning with a
 strong theoretical and mathematical basis.
 
 ## News
-- (January) Our [paper about GNN expressivity and generalization](https://arxiv.org/abs/2505.11298)  has been accepted to ICLR. Work led by Sohir Maskey. 
+- (May) Our paper [Message Passing on the Edge: Towards Scalable and Expressive GNNs](https://arxiv.org/abs/2510.13615) has been accepted to ICML 🇰🇷. 
+- (January) Our [paper about GNN expressivity and generalization](https://arxiv.org/abs/2505.11298)  has been accepted to ICLR 🇧🇷. Work led by Sohir Maskey. 
 - (January) Our paper [GNNs Don’t Need Backprop](https://pwelke.de/publications/goupil2026gnnsdontneedbackprop.pdf)  has been accepted to the [ESANN](https://www.esann.org/) as an **oral**. Work led by Benoît Goupil.
 
 ### 2025
